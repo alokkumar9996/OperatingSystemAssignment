@@ -9,7 +9,6 @@ int main ()
 
    int n[11];
    int a[11];
-   int b[10];
    int p[25];
 
  /* n is an array of 10 integers */
